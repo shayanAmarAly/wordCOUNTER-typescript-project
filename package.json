@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "typescript": "^4.9.4"
+  },
+  "name": "word_counter",
+  "version": "1.0.0",
+  "description": "This is the word counter CLI based application ",
+  "main": "app.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shayan",
+  "license": "ISC"
+}
